@@ -1,7 +1,3 @@
-Sure, here is a detailed project structure for the "Thyroid Cancer Recurrence Prediction" project suitable for a README file on GitHub:
-
----
-
 # Thyroid Cancer Recurrence Prediction Project
 
 ## Project Description
